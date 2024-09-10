@@ -1,17 +1,17 @@
-  # 냉모밀 - 얼음땡
+  # 냉장고의 모든 비밀(<b style="color: #83C9E7">냉모밀</b>) - <span style="color: #4A88DA">얼음땡
+  ## <span style="color: #E783AD">Spring Cloud</span>을 활용한 <span style="color: #E783AD">마이크로서비스 아키텍처(MSA)</span>기반의 냉장고 관리앱
 
 <div align="center">
-<img width="350" alt="image" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/1719bb64-6e21-4cc8-bd47-ba583e28c387">
+<img width="300" alt="image" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/1719bb64-6e21-4cc8-bd47-ba583e28c387">
 
 </div>
 
-# 냉모밀 
-> **클라우드 기반 웹 데브옵스 프로젝트 개발 과정** <br/> **개발기간: 2024.07.25 ~ 2024.09.19**
+> *클라우드 기반 웹 데브옵스 프로젝트 개발 과정* <br/> *개발기간: 2024.07.25 ~ 2024.09.19(약 2개월)*
 
 ## 배포 주소
 
-> **깃허브 주소** : [https://github.com/1ceOut] <br>
-> **배포 주소** : [https://reacticeout.icebuckwheat.kro.kr/]
+> **Source** : [https://github.com/1ceOut] <br>
+> **Service** : [https://reacticeout.icebuckwheat.kro.kr/]
 
 ## 개발팀 소개
 
@@ -22,13 +22,16 @@
 
 ## 프로젝트 소개
 
-저희 조는 Spring Cloud MSA 를 활용한 구축 방식으로 개발을 진행하였습니다. <br/><br/>
-<b style="color :#2377EF">냉모밀</b>은 사용자들이 냉장고를 보다 스마트하게 활용할 수 있도록 모바일에서 사용할 수 있는 혁신적인 웹 / 앱을 제공하기 위한 프로젝트입니다. <br/><br/>
-냉장고 공동 관리 서비스로 여러 사용자가 함께 냉장고를 효율적으로 관리하고 채팅 , 기능으로 소통할 수 있습니다 바코드 . 인식을 통해 제품의 영양 정보와 유통기한을 손쉽게 등록하고 만료 , 알림을 받을 수 있어 관리가 편리합니다. 또한 레시피 공유와 라이브 쿠킹 클래스를 통해 요리 아이디어를 나눌 수 있는 커뮤니티 공간을 제공합니다. 더불어 개인 , AI 맞춤형 식재료 추천 시스템과 소셜 로그인 기능으로 사용자 편의를 극대화했습니다.
+Spring Cloud을 활용한 마이크로서비스 아키텍처(Microservices Architecture, MSA)를 채택한 방식으로 개발을 진행하였습니다. <br/><br/>
+<b style="color :#83C9E7">냉모밀</b>은 사용자들이 냉장고를 보다 스마트하게,편하게 활용할 수 있도록 모바일 및 월 패드에서 사용할 수 있는 혁신적인 웹 / 앱을 제공하기 위한 프로젝트입니다.
+- 냉장고 공동 관리 서비스로 여러 사용자가 함께 냉장고를 효율적으로 관리하고 채팅기능으로 소통할 수 있습니다.
+- 바코드 인식을 통해 제품의 영양 정보와 유통기한을 손쉽게 등록하고 만료 알림을 받을 수 있어 관리가 편리합니다.
+- 또한 레시피 공유와 라이브 쿠킹 클래스를 통해 요리 아이디어를 나눌 수 있는 커뮤니티 공간을 제공합니다. 
+- 더불어 개인 , AI 맞춤형 레시피 추천과 소셜 로그인 기능으로 사용자 편의를 극대화했습니다.
 
 ## Stacks 🐈
 
-### BACK END
+### BACK END ⚙️
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Cloud Gateway](https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -57,7 +60,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elastic Search](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### FRONT END
+### FRONT END 💻
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router DOM v6](https://img.shields.io/badge/React%20Router%20DOM%20v6-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FF5D01?style=for-the-badge&logo=zustand&logoColor=white)
@@ -80,7 +83,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![OpenVidu React Component](https://img.shields.io/badge/OpenVidu%20React%20Component-FF3C3C?style=for-the-badge&logo=openvidu&logoColor=white)
 
-### NAVER CLOUD & API
+### NAVER CLOUD & API 🔗
 ![VPC](https://img.shields.io/badge/VPC-0033A0?style=for-the-badge&logo=aws&logoColor=white)
 ![Clova OCR](https://img.shields.io/badge/Clova%20OCR-00C4A7?style=for-the-badge&logo=clova&logoColor=white)
 ![NCP Object Storage](https://img.shields.io/badge/NCP%20Object%20Storage-00C4A7?style=for-the-badge&logo=naver&logoColor=white)
@@ -89,8 +92,9 @@
 ![Kakao Social Login](https://img.shields.io/badge/Kakao%20Social%20Login-FFCD00?style=for-the-badge&logo=kakao&logoColor=black)
 ![Naver Social Login](https://img.shields.io/badge/Naver%20Social%20Login-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 ![Google Social Login](https://img.shields.io/badge/Google%20Social%20Login-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Openvidu](https://img.shields.io/badge/openvidu-FFCD00?style=for-the-badge&logoColor=white)
 
-### TOOL & CI/CD
+### TOOL & CI/CD 📦
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-000000?style=for-the-badge&logo=github&logoColor=white)
@@ -129,53 +133,113 @@
 | <img width="225" alt="강사 마이페이지" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/acf5d894-fee6-4fff-8cee-8eb286ca0796"> | <img width="225" alt="관리자 마이페이지" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/4a9abc81-0302-4c91-8ad9-3d20c1a2b47f"> |
 
 ---
-## 서비스별 소개 📦
+## 주요기능 소개 📦
 
-### ⭐️ 로그인 / 추가 정보 입력
-- 로그인 <br>
-<b style="color :#2377EF">로그인 : 로그인과 추가 정보 입력</b> <br>
-회원 가입 및 로그인 절차는 소셜 로그인을 통해 간편하게 처리됩니다. 이를 통해 사용자들은 빠르고 쉽게 홈페이지에 접속할 수 있습니다.
+### 🔐 로그인 / 추가 정보 입력
+<details style="margin-left: 30px">
+<summary>[ 로그인 ]</summary>
+
+<b style="color :#83C9E7">다양한 소셜 로그인을 기능을 제공함으로써 접근성을 향상시켜 유저 친화적으로 다른 기능을 원활하게 사용할 수 있습니다.</b>
+
+    - 로그인 절차는 소셜 로그인(Naver,Google,Kakao)을 통해 간편하게 회원가입 및 로그인할 수 있습니다.
+    - 처음 로그인 시, 간단한 추가정보를 입력한 뒤 정상적으로 이용할 수 있습니다.
+    - 이러한 간단한 접근성을 통해 좀 더 유저 친화적으로 다른 기능을 원활하게 사용할 수 있습니다.
+
+</details>
+
+### 🍑 냉장고 관리
+
+<details style="margin-left: 30px">
+<summary>[🧊 냉장고 관리]</summary>
+
+<b style="color :#83C9E7">냉장고 생성, 조회, 수정, 삭제 기능을 제공하여 냉장고를 갯수제한 없이 관리하는 부분을 편리하게 제공합니다.</b>
+
+    - 냉장고 생성 : 냉장고를 생성할 경우 냉장고의 이름을 8~12글자 사이로 지정하여 생성합니다.
+    - 냉장고 조회 : 냉장고를 성공적으로 생성하여 1개 이상인 경우 홈 화면에서 자신의 냉장고를 간편하게 조회할 수 있습니다.
+    - 냉장고 수정,삭제 : 자신이 생성한 냉장고의 이름 수정이 가능하고, 삭제 또한 가능합니다. 
+
+</details>
+
+<br>
+
+<details style="margin-left: 30px">
+<summary>[🥒 식재료 관리]</summary>
+
+<b style="color :#83C9E7">식재료 추가, 조회, 수정, 삭제 기능을 통해 사용자가 식재료를 좀 더 효율적으로 관리 할 수 있도록 합니다.</b>
+
+    - 식재료 추가 : 냉장고를 선택하여 식재료 추가하는 방법은 바코드 인식 및 직접 입력 등 2가지 기능을 제공합니다.
+      * 바코드 인식 : 식재료의 바코드를 촬영한 뒤, 해당 사진을 Clova OCR과 OpenAPI의 바코드 데이터를 연동하여 추후 수량과 소비기한을 입력하여 추가합니다.
+      * 직접 입력 : 식재료의 대분류, 소분류 등을 선택하고 상품명, 수량, 소비기한을 입력하여 추가합니다.
+    - 식재료 조회 : 자신이 조회를 원하는 냉장고를 선택한 후, 해당 냉장고에서 관리 되어지는 식재료의 정보를 확인할 수 있습니다.
+    - 식재료 수정 : 특정 냉장고의 식재료의 수량이 변경되는 경우, 수량을 변경할 수 있습니다. ⚠️ 소비기한은 변경되지 않습니다.
+    - 식재료 삭제 : 특정 냉장고의 식재료가 소비되거나 소비기한이 지나 삭제를 할 경우, 해당 식재료의 상세보기에서 삭제할 수 있습니다.
+
+</details>
+
+<br>
+
+<details style="margin-left: 30px">
+<summary>[🧑‍🤝‍🧑 냉장고 구성원 관리]</summary>
+
+<b style="color :#83C9E7">여러 사용자가 냉장고를 함께 관리할 수 있는 공동 관리 기능을 제공합니다. 사용자는 냉장고를 다른 사람과 공유하고, 채팅 기능을 통해 냉장고 관리와 관련된 소통을 할 수 있습니다. 이를 통해 가정, 직장, 또는 공유 주방 등 다양한 상황에서 냉장고를 효율적으로 활용할 수 있습니다.</b>
+
+    - 구성원 초대 : 해당 냉장고의 초대코드를 타인에게 공유하여 구성원을 초대할 수 있습니다. 
+    - 구성원 삭제 : 해당 냉장고의 관리자(생성자)만이 구성원을 삭제할 수 있습니다.
+
+</details>
+<br>
+
+### 💬 채팅
+<b style="color :#83C9E7">채팅 기능을 통해 냉장고 구성원들간의 의사소통과 해당 냉장고의 식재료 관리를 좀 더 원활하게 도와줍니다.</b><br>
+  - 공지사항 : 냉장고의 관리자(생성자)가 공지를 설정하고 수정을 통해 구성원들에게 전파될 내용을 설정할 수 있습니다.
+  - 채팅방 : 채팅방에서 원활한 의사소통을 수행할 수 있도록 다양한 이모지가 제공됩니다.
 
 
-### ⭐️ 냉장고 관리
-- [냉장고 CRUD] <br>
-<b style="color :#2377EF">CRUD :  냉장고 생성, 읽기, 수정, 삭제</b> <br>
-우선 냉장고를 관리하기 위해서 본인이 소유 하고 있는 냉장고를 추가 할 수 있으며 해당 냉장고는 기본적인 CRUD를 제공 받을 수 있습니다.
+### 📋 커뮤니티
+<details style="margin-left: 30px">
+<summary>[📤 레시피 공유 게시판] </summary>
+<b style="color :#83C9E7">게시글 작성, 조회, 수정, 삭제를 통해 사용자들이 서로의 음식 레시피를 공유하고, 다양한 요리 아이디어를 나눌 수 있는 커뮤니티 공간을 제공합니다</b>
 
-- [식재료 CRUD(바코드 인식 및 직접 입력)] <br>
-<b style="color :#2377EF">식재료 CRUD : 식재료 생성, 읽기, 수정, 삭제 </b> <br>
-냉장고에 식재료를 추가하고 싶은 경우 해당 제품의 바코드를 촬영하여 영양정보와 제조일자 등 여러 정보를 가져올 수 있고 바코드가 없는 제품의 경우 영양정보를 제외한 정보를 입력하여 식재료를 효율적으로 관리 할 수 있도록 했습니다.
+    - 게시글 작성 : 자신의 레시피에 대한 이미지, 제목, 설명, 해시태그, 단계별 조리법 및 이미지를 작성하여 다른 사용자들에게 자신의 레시피를 체계적으로 공유할 수 있도록 합니다.
+    - 게시글 조회 : 모든 레시피에 대한 이미지 및 좋아요 수, 댓글 수 등을 파악하여 자신이 보기 원하는 레시피를 선택할 수 있습니다. 
+    - 게시글 수정 : 자신의 레시피의 오타 및 수정 사항을 자신만이 수정할 수 있도록하여 좀 더 정확한 정보를 제공할 수 있습니다.
+    - 게시글 삭제 : 자신의 레시피 게시글이 맘에 들지 않는 경우, 작성자가 게시글을 삭제할 수 있습니다.
 
-- [냉장고 구성원 초대/삭제] <br>
-<b style="color :#2377EF">냉장고 구성원 : 구성원 초대 / 삭제</b><br>
-여러 사용자가 냉장고를 함께 관리할 수 있는 공동 관리 기능을 제공합니다. 사용자는 냉장고를 다른 사람과 공유하고, 채팅 기능을 통해 냉장고 관리와 관련된 소통을 할 수 있습니다. 이를 통해 가정, 직장, 또는 공유 주방 등 다양한 상황에서 냉장고를 효율적으로 활용할 수 있습니다.
+</details>
+<br>
+<details style="margin-left: 30px">
+<summary>[👍 좋아요 / 💬 댓글 / 🔔 구독]</summary>
+<b style="color :#83C9E7">게시글 좋아요, 댓글 / 게시글 작성자 구독 기능을 통해 자신의 게시글 및 자신에 대한 다른 사용자들의 평가를 받아볼 수 있습니다.</b>
 
-### ⭐️ 쇼핑
-- [쇼핑] <br>
-<b style="color :#2377EF">채팅 : 채팅 페이지</b><br>
-Market Kurly와 연동되어 사용자 데이터 기반 식재료 추천 기능을 사용할 수 있습니다. 사용자가 식품 정보를 쉽게 조회하고, 원하는 제품을 편리하게 구매할 수 있도록 안내하는 기능을 제공합니다.
+    - 좋아요 : 해당 게시물을 다른 유저가 얼마나 만족해 하는지 평가할 수 있습니다.
+    - 댓글 : 댓글 작성 시 해당 레시피에 대한 후기와 자신이 직접 조리했을 경우의 난이도, 평점등을 남길 수 있습니다. 해당 데이터는 홈 화면에 사용자에게 맞춤 추천 기능을 위한 데이터로 활용됩니다.
+    - 구독 : 특정 사용자를 구독한 경우, 해당 사용자가 새로운 게시글을 작성할 경우 알림을 제공합니다. 
+</details>
+<br>
+<details style="margin-left: 30px">
+<summary>[📺 실시간 방송]</summary>
+<b style="color :#83C9E7">실시간 방송을 통해 실시간으로 자신의 요리 과정 및 다른 사용자들의 피드백을 제공받을 수 있습니다.</b>
 
-### ⭐️ 채팅
-- [채팅] <br>
-<b style="color :#2377EF">채팅 : 채팅 페이지</b><br>
-사용자가 냉장고 생성 시 자동으로 해당 냉장고 구성원들이 있는 채팅방이 생기며 냉장고 구성원 초대를 통해서 채팅방 인원도 자동으로 증가하게 됩니다.
+    - 방송 시작 : 커뮤니티의 자신의 프로필 사진의 🟦➕ 버튼을 클릭하여 방송을 시작할 수 있습니다.
+    - 실시간 자막 : 자신의 방송에 자막이 필요하다고 생각되는 경우, 방송 게시자는 🎤를 눌러 시청자에게 자막을 제공할 수 있습니다. 
+      - ⚠️ 현재 자막은 영어, 한국어 밖에 제공되지 않습니다.
+    - 방송 종료 : 방송을 시청하는 사용자는 나가기 버튼을 통해 방송시청을 종료할 수 있고, 방송 게시자의 경우 나가기 버튼을 통해 방송을 종료 할 수 있습니다.
+    - 실시간 채팅 : 방송 게시자와 시청자 모두 방송 채팅에 참여할 수 있습니다.
+      - ⚠️ 방송 종료 시 해당 방송에서 나눴던 대화는 저장되지 않습니다.
 
+</details>
+<br>
 
-### ⭐️ 커뮤니티
-- [게시글 CRUD] <br>
-<b style="color :#2377EF">커뮤니티 CRUD : 게시글 생성, 읽기, 수정, 삭제</b> <br>
-커사용자들이 서로의 음식 레시피를 공유하고, 다양한 요리 아이디어를 나눌 수 있는 커뮤니티 공간을 제공합니다. 사용자들은 구독과 라이브방송 기능을 통해 온라인으로 쿠킹 클래스를 수강할 수 있습니다. 이 기능은 요리 취향과 노하우를 교환할 수 있는 플랫폼을 마련해줍니다. <br>
+### 📢 알람
+<b style="color :#83C9E7">알람을 통해 사용자가 좀 더 냉장고 관리, 커뮤니티 기능을 효울적으로 사용할 수 있도록 제공합니다.</b> <br>
+  - 냉장고 생성, 삭제 알림 : 냉장고의 관리자(생성자)가 냉장고를 생성했을 경우 자기 자신에게 알림이 전송되고, 삭제했을 경우, 구성원 사용자 모두에게 알림이 전송됩니다.
+  - 유통기한 알림 : 자신이 관리자(생성자) 및 구성원인 냉장고들의 식재료들의 소비기한이 3일 이하로 남았거나 지난 경우, 알림을 통해 사용자에게 경고알림을 제공합니다.
+  - 구독 알림 : 다른 사용자가 자신을 구독할 경우 알림을 통해 해당 사실을 알려줍니다.
+  - 새글 알림 : 자신이 관심있어한 사용자가 새 레시피 글을 작성한 경우, 해당 사용자를 구독한 다른 사용자들에게 알림을 전송해 해당 사실을 알립니다.
+  -  댓글 알림 : 자신을 글에 댓글을 통한 피드백이 올라온 경우, 작성자에게 알림을 통해 해당 사실을 알립니다.
+  -  방송 알림 : 특정 유저가 방송을 시작한 경우, 해당 방송 게시자를 구독한 사용자에게 알림을 전송해 해당 사실을 알립니다.
 
-- [좋아요 / 댓글 / 구독] <br>
-<b style="color :#2377EF">게시글 좋아요, 댓글 / 게시글 작성자 구독</b> <br>
-좋다고 생각한 게시글에 좋아요를 남기거나 댓글을 남길 수 있으며 해당 게시글의 작성자에 대한 구독도 가능합니다.
-
-- [실시간 방송] <br>
-<b style="color :#2377EF">실시간 방송</b><br/>
-사용자가 구독한 대상이 방송을 실행 했을 시 커뮤니티 상단의 프로필에서 바로 확인이 가능하며 프로필을 통해 해당 사용자의 방송 페이지로 이동하여 시청이 가능합니다.
-
-### ⭐️⭐️⭐️⭐️⭐️ 알람
-- [알람] <br>
-<b style="color :#2377EF">알람</b> <br>
+### 🛒 쇼핑
+<b style="color :#83C9E7">Market Kurly와 연동되어 사용자가 식품 정보를 쉽게 조회하고, 원하는 제품을 편리하게 구매할 수 있도록 안내하는 기능을 제공합니다.</b>
 
 ---
