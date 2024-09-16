@@ -116,21 +116,21 @@ ${\textsf{\color{#83C9E7}냉모밀}}$은 사용자들이 냉장고를 보다 스
 
 ---
 ## 화면 구성 📺
-| 메인 페이지 | 로그인/회원가입 페이지 |
+| 메인 페이지 | 로그인 페이지 |
 | :-------------------------------------------: | :------------: |
-| <img width="225" alt="메인" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/6d354481-ebc2-4d0f-9acf-22d00eff58d6"> | <img width="225" alt="로그인" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/7f7d9189-9288-4d42-9b0d-89b69735412d"> <img width="225" alt="회원가입" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/dbe9468d-e5bb-4c89-aa6f-eaa133907f54">  |  
+| <img width="225" alt="메인페이지" src="https://github.com/user-attachments/assets/5293868a-846d-44e3-b087-daa41bd28c5f"> | <img width="225" alt="로그인" src="https://github.com/user-attachments/assets/bf381961-df6c-405b-b757-797795c485db">|  
 
-| 리뷰 페이지 | 포트폴리오 페이지 |  
+| 쇼핑 페이지 | 검색 페이지 |  
 | :-------------------------------------------: | :------------: |
-| <img width="225" alt="리뷰" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/475a3d9c-b008-4864-91ee-743be0390303"> | <img width="225" alt="포트폴리오" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/263fc873-14f9-4992-b978-f520feb7f626"> |
+| <img width="225" alt="쇼핑 페이지" src="https://github.com/user-attachments/assets/29e22cdf-dc25-4da5-b5b8-40b0af20eaa6"> | <img width="225" alt="검색 페이지" src="https://github.com/user-attachments/assets/a6d7c065-aa64-4157-9333-0ea90474ab0c"> |
 
-| 문의 페이지 | 학생 마이페이지 |  
+| 냉장고 페이지 | 채팅 페이지 |  
 | :-------------------------------------------: | :------------: |
-| <img width="225" alt="문의" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/b01ddc65-0143-4976-acf3-6b560794e758"> | <img width="225" alt="학생 마이페이지" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/2e64b2d7-8246-4ae9-8f0d-e90ca83bd3ff"> |
+| <img width="225" alt="냉장고 페이지" src="https://github.com/user-attachments/assets/0b8e61c8-c03c-41ea-9bbb-4666ed208065"> | <img width="225" alt="채팅 페이지" src="https://github.com/user-attachments/assets/9a799a4f-0529-4c90-a483-84858928420b"> |
 
-| 강사 페이지 | 관리자 마이페이지 |  
+| 커뮤니티 페이지 | 방송 페이지 |  
 | :-------------------------------------------: | :------------: |
-| <img width="225" alt="강사 마이페이지" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/acf5d894-fee6-4fff-8cee-8eb286ca0796"> | <img width="225" alt="관리자 마이페이지" src="https://github.com/DevCampUs-FiveGuys/main/assets/147224562/4a9abc81-0302-4c91-8ad9-3d20c1a2b47f"> |
+| <img width="225" alt="커뮤니티 페이지" src="https://github.com/user-attachments/assets/66b933b6-61ee-4d4d-8d69-710b242dba53"> | <img width="225" alt="방송 페이지" src="https://github.com/user-attachments/assets/3f45fcf1-8e48-46cc-beb3-f47b2c63f007"> |
 
 ---
 ## 주요기능 소개 📦
