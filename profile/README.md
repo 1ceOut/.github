@@ -115,7 +115,7 @@ ${\textsf{\color{#83C9E7}냉모밀}}$은 사용자들이 냉장고를 보다 스
 
 
 ---
-## 화면 구성 📺
+## [화면 구성](https://github.com/1ceOut/React)📺
 | 메인 페이지 | 로그인 페이지 |
 | :-------------------------------------------: | :------------: |
 | <img width="225" alt="메인페이지" src="https://github.com/user-attachments/assets/5293868a-846d-44e3-b087-daa41bd28c5f"> | <img width="225" alt="로그인" src="https://github.com/user-attachments/assets/bf381961-df6c-405b-b757-797795c485db">|  
@@ -135,7 +135,7 @@ ${\textsf{\color{#83C9E7}냉모밀}}$은 사용자들이 냉장고를 보다 스
 ---
 ## 주요기능 소개 📦
 
-### 🔐 로그인 / 추가 정보 입력
+### 🔐 [로그인 / 추가 정보 입력](https://github.com/1ceOut/login_service)
 <details>
 <summary>[ 로그인 ]</summary>
 
@@ -147,7 +147,7 @@ ${\textsf{\color{#83C9E7}다양한 소셜 로그인을 기능을 제공함으로
 
 </details>
 
-### 🍑 냉장고 관리
+### 🍑 [냉장고 관리](https://github.com/1ceOut/Refrigerator_management)
 
 <details>
 <summary>🧊 냉장고 관리</summary>
@@ -190,16 +190,16 @@ ${\textsf{\color{#83C9E7}여러 사용자가 냉장고를 함께 관리할 수 �
 </details>
 <br>
 
-### 💬 채팅
+### 💬 [채팅](https://github.com/1ceOut/chat)
 ${\textsf{\color{#83C9E7}채팅 기능을 통해 냉장고 구성원들간의 의사소통과 해당 냉장고의 식재료 관리를 좀 더 원활하게 도와줍니다.}}$
 
   - 공지사항 : 냉장고의 관리자(생성자)가 공지를 설정하고 수정을 통해 구성원들에게 전파될 내용을 설정할 수 있습니다.
   - 채팅방 : 채팅방에서 원활한 의사소통을 수행할 수 있도록 다양한 이모지가 제공됩니다.
 
 
-### 📋 커뮤니티
+### 📋 커뮤니티([게시판](https://github.com/1ceOut/community_board), [좋아요/댓글/구독](https://github.com/1ceOut/likecomment), [방송](https://github.com/1ceOut/broadcast))
 <details>
-<summary>📤 레시피 공유 게시판</summary>
+<summary>📤레시피 공유 게시판</summary>
 
 ${\textsf{\color{#83C9E7}게시글 작성, 조회, 수정, 삭제를 통해 사용자들이 서로의 음식 레시피를 공유하고, 다양한 요리 아이디어를 나눌 수 있는 커뮤니티 공간을 제공합니다.}}$
 
@@ -236,7 +236,7 @@ ${\textsf{\color{#83C9E7}실시간 방송을 통해 실시간으로 자신의 �
 </details>
 <br>
 
-### 📢 알람
+### 📢 [알람](https://github.com/1ceOut/alarm)
 ${\textsf{\color{#83C9E7}알람을 통해 사용자가 좀 더 냉장고 관리, 커뮤니티 기능을 효울적으로 사용할 수 있도록 제공합니다.}}$
   - 냉장고 생성, 삭제 알림 : 냉장고의 관리자(생성자)가 냉장고를 생성했을 경우 자기 자신에게 알림이 전송되고, 삭제했을 경우, 구성원 사용자 모두에게 알림이 전송됩니다.
   - 유통기한 알림 : 자신이 관리자(생성자) 및 구성원인 냉장고들의 식재료들의 소비기한이 3일 이하로 남았거나 지난 경우, 알림을 통해 사용자에게 경고알림을 제공합니다.
@@ -245,7 +245,7 @@ ${\textsf{\color{#83C9E7}알람을 통해 사용자가 좀 더 냉장고 관리,
   -  댓글 알림 : 자신을 글에 댓글을 통한 피드백이 올라온 경우, 작성자에게 알림을 통해 해당 사실을 알립니다.
   -  방송 알림 : 특정 유저가 방송을 시작한 경우, 해당 방송 게시자를 구독한 사용자에게 알림을 전송해 해당 사실을 알립니다.
 
-### 🛒 쇼핑
+### 🛒 [쇼핑](https://github.com/1ceOut/Shop)
 ${\textsf{\color{#83C9E7} Market Kurly와 연동되어 사용자가 식품 정보를 쉽게 조회하고, 원하는 제품을 편리하게 구매할 수 있도록 안내하는 기능을 제공합니다.}}$
 
 ---
