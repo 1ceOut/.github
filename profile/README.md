@@ -50,7 +50,6 @@ ${\textsf{\color{#83C9E7}냉모밀}}$은 사용자들이 냉장고를 보다 스
 ![Spring WebSocket](https://img.shields.io/badge/Spring%20WebSocket-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Selenium](https://img.shields.io/badge/Spring%20Selenium-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-4A90E2?style=for-the-badge&logo=oauth&logoColor=white)
-![AWS SDK S3](https://img.shields.io/badge/AWS%20SDK%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![JAVA JDK 17](https://img.shields.io/badge/Java%20JDK%2017-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-2C2C2C?style=for-the-badge&logo=lombok&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
