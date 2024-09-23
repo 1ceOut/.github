@@ -2,7 +2,8 @@
   ## ${\textsf{\color{#E783AD}Spring Cloud}}$을 활용한 ${\textsf{\color{#E783AD}마이크로서비스 아키텍처(MSA)}}$기반의 냉장고 관리앱
 
 <div align="center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/ee498789-c5d3-4086-804d-b183ea17f4f6">
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ee498789-c5d3-4086-804d-b183ea17f4f6"/>
+<img width="300" height="300" alt="image2" src="https://drive.google.com/uc?export=view&id=12U37SgJuxs2xp_6YO4Hn0ovFu2kU8Sct"/>
 
 </div>
 
@@ -117,7 +118,7 @@ ${\textsf{\color{#83C9E7}냉모밀}}$은 사용자들이 냉장고를 보다 스
 ## [화면 구성](https://github.com/1ceOut/React)📺
 | 메인 페이지 | 로그인 페이지 |
 | :-------------------------------------------: | :------------: |
-| <img width="225" alt="메인페이지" src="https://github.com/user-attachments/assets/5293868a-846d-44e3-b087-daa41bd28c5f"> | <img width="225" alt="로그인" src="https://github.com/user-attachments/assets/bf381961-df6c-405b-b757-797795c485db">|  
+| <img width="225" alt="메인페이지" src="https://github.com/user-attachments/assets/5293868a-846d-44e3-b087-daa41bd28c5f"> | <img width="225" alt="로그인" src="https://github.com/user-attachments/assets/bf381961-df6c-405b-b757-797795c485db"> |  
 
 | 쇼핑 페이지 | 검색 페이지 |  
 | :-------------------------------------------: | :------------: |
