@@ -2,24 +2,24 @@
   ## ${\textsf{\color{#E783AD}Spring Cloud}}$을 활용한 ${\textsf{\color{#E783AD}마이크로서비스 아키텍처(MSA)}}$기반의 냉장고 관리앱
 
 <div align="center">
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ee498789-c5d3-4086-804d-b183ea17f4f6"/>
+<img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/ee498789-c5d3-4086-804d-b183ea17f4f6"/>
 <img width="300" height="300" alt="image2" src="https://drive.google.com/uc?export=view&id=12U37SgJuxs2xp_6YO4Hn0ovFu2kU8Sct"/>
 
 </div>
 
-> *클라우드 기반 웹 데브옵스 프로젝트 개발 과정* <br/> *개발기간: 2024.07.25 ~ 2024.09.19(약 2개월)*
+> *클라우드 기반 웹 데브옵스 프로젝트 개발 과정* <br/> *개발기간: 2024.07.25 ~ 2024.09.20(약 2개월)*
 
 ## 배포 주소
 
-> **Source** : [https://github.com/1ceOut] <br>
-> **Service** : [https://reacticeout.icebuckwheat.kro.kr/]
+> **Organization** : [우리 팀을 소개합니다!](https://github.com/1ceOut) <br>
+> **Service** : [우리의 작품을 소개합니다!](https://reacticeout.icebuckwheat.kro.kr)
 
 ## 개발팀 소개
 
 |      박한경       |          공병현         |       이장우         |          민경진         |       이가현         |       박주용         |                                                                                                              
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |:---------------------------------------------------------------------------------------------------------------------------------------------------: |:---------------------------------------------------------------------------------------------------------------------------------------------------: |:---------------------------------------------------------------------------------------------------------------------------------------------------: | 
 |   <img width="225" alt="박한경" src="https://github.com/user-attachments/assets/78591127-2b57-4f70-93ad-7f95a5d268e9">    |     <img width="225" alt="공병현" src="https://github.com/user-attachments/assets/ae23a418-c22f-47ea-ad76-5ede8592ad2b">    |    <img width="225" alt="이장우" src="https://github.com/user-attachments/assets/93b84697-2aa0-4805-a848-2e929b50fa57">   |    <img width="225" alt="민경진" src="https://github.com/user-attachments/assets/23b4aae5-1273-49ec-a4b6-a4e14d1ff9ac">   |    <img width="225" alt="이가현" src="https://github.com/user-attachments/assets/65e5d3fb-84d8-4119-89d9-3fd080ef85ed">   |    <img width="225" alt="박주용" src="https://github.com/user-attachments/assets/9f6c26a2-1a79-41f3-aba4-d686c9694604">   |
-| 게시판 관리 | 알람 | 로그인/회원가입 | 게시판 좋아요/댓글 | 채팅  | 냉장고 관리 |
+| Project Manager<br>게시판 관리 | Back-End Manager<br>알람 | DevOps Manager<br>로그인/쇼핑 | Front-End Manager<br>게시판&좋아요/댓글 | Deploy Manager<br>채팅  | Database Manager<br>냉장고 관리 |
 
 ## 프로젝트 소개
 
@@ -30,6 +30,11 @@ ${\textsf{\color{#83C9E7}냉모밀}}$은 사용자들이 냉장고를 보다 스
 - 또한 레시피 공유와 라이브 쿠킹 클래스를 통해 요리 아이디어를 나눌 수 있는 커뮤니티 공간을 제공합니다. 
 - 더불어 개인 , AI 맞춤형 레시피 추천과 소셜 로그인 기능으로 사용자 편의를 극대화했습니다.
 
+### 발표자료 및 팜플렛,홍보영상
+- 발표자료 : [발표자료 보러가기!](https://docs.google.com/presentation/d/1jbnzlLtcXgrJolOQV3iakoKPzuG63T5e/edit?usp=sharing&ouid=103921624347738859092&rtpof=true&sd=true)
+- 팜플렛 : [팜플렛 보러가기!](https://drive.google.com/file/d/1xVDZpmftNucE95-PiM991UxNZcCRwk4q/view?usp=drive_link)
+- 홍보영상 : [홍보영상 보러가기!](https://drive.google.com/file/d/1SHRBepL5BAcvUMZz2KChgCLUmN3a27St/view?usp=sharing)
+
 ## Stacks 🐈
 
 ### BACK END ⚙️
@@ -37,7 +42,7 @@ ${\textsf{\color{#83C9E7}냉모밀}}$은 사용자들이 냉장고를 보다 스
 ![Spring Cloud Gateway](https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud Bus AMQP](https://img.shields.io/badge/Spring%20Cloud%20Bus%20AMQP-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logoColor=white)
 ![Spring Cloud Config](https://img.shields.io/badge/Spring%20Cloud%20Config-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud OpenFeign](https://img.shields.io/badge/Spring%20Cloud%20OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -116,21 +121,13 @@ ${\textsf{\color{#83C9E7}냉모밀}}$은 사용자들이 냉장고를 보다 스
 
 ---
 ## [화면 구성](https://github.com/1ceOut/React)📺
-| 메인 페이지 | 로그인 페이지 |
-| :-------------------------------------------: | :------------: |
-| <img width="225" alt="메인페이지" src="https://github.com/user-attachments/assets/5293868a-846d-44e3-b087-daa41bd28c5f"> | <img width="225" alt="로그인" src="https://github.com/user-attachments/assets/bf381961-df6c-405b-b757-797795c485db"> |  
+| 메인 페이지 | 로그인 페이지 | 쇼핑 페이지 | 검색 페이지 |  
+| :-------------------------------------------: | :------------: | :-------------------------------------------: | :------------: |
+| <img width="225" alt="메인페이지" src="https://github.com/user-attachments/assets/5293868a-846d-44e3-b087-daa41bd28c5f"> | <img width="225" alt="로그인" src="https://github.com/user-attachments/assets/bf381961-df6c-405b-b757-797795c485db"> | <img width="225" alt="쇼핑 페이지" src="https://github.com/user-attachments/assets/29e22cdf-dc25-4da5-b5b8-40b0af20eaa6"> | <img width="225" alt="검색 페이지" src="https://github.com/user-attachments/assets/a6d7c065-aa64-4157-9333-0ea90474ab0c"> |
 
-| 쇼핑 페이지 | 검색 페이지 |  
-| :-------------------------------------------: | :------------: |
-| <img width="225" alt="쇼핑 페이지" src="https://github.com/user-attachments/assets/29e22cdf-dc25-4da5-b5b8-40b0af20eaa6"> | <img width="225" alt="검색 페이지" src="https://github.com/user-attachments/assets/a6d7c065-aa64-4157-9333-0ea90474ab0c"> |
-
-| 냉장고 페이지 | 채팅 페이지 |  
-| :-------------------------------------------: | :------------: |
-| <img width="225" alt="냉장고 페이지" src="https://github.com/user-attachments/assets/0b8e61c8-c03c-41ea-9bbb-4666ed208065"> | <img width="225" alt="채팅 페이지" src="https://github.com/user-attachments/assets/9a799a4f-0529-4c90-a483-84858928420b"> |
-
-| 커뮤니티 페이지 | 방송 페이지 |  
-| :-------------------------------------------: | :------------: |
-| <img width="225" alt="커뮤니티 페이지" src="https://github.com/user-attachments/assets/66b933b6-61ee-4d4d-8d69-710b242dba53"> | <img width="225" alt="방송 페이지" src="https://github.com/user-attachments/assets/3f45fcf1-8e48-46cc-beb3-f47b2c63f007"> |
+| 냉장고 페이지 | 채팅 페이지 | 커뮤니티 페이지 | 방송 페이지 |  
+| :-------------------------------------------: | :------------: | :-------------------------------------------: | :------------: |
+| <img width="225" alt="냉장고 페이지" src="https://github.com/user-attachments/assets/0b8e61c8-c03c-41ea-9bbb-4666ed208065"> | <img width="225" alt="채팅 페이지" src="https://github.com/user-attachments/assets/9a799a4f-0529-4c90-a483-84858928420b"> | <img width="225" alt="커뮤니티 페이지" src="https://github.com/user-attachments/assets/66b933b6-61ee-4d4d-8d69-710b242dba53"> | <img width="225" alt="방송 페이지" src="https://github.com/user-attachments/assets/3f45fcf1-8e48-46cc-beb3-f47b2c63f007"> |
 
 ---
 ## 주요기능 소개 📦
